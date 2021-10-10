@@ -1,0 +1,14 @@
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\die using random\obj\Debug\netcoreapp3.1\die using random.csproj.AssemblyReference.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\die using random\obj\Debug\netcoreapp3.1\die using random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\die using random\obj\Debug\netcoreapp3.1\die using random.AssemblyInfoInputs.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\die using random\obj\Debug\netcoreapp3.1\die using random.AssemblyInfo.cs
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\die using random\obj\Debug\netcoreapp3.1\die using random.csproj.CoreCompileInputs.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\die using random\bin\Debug\netcoreapp3.1\die using random.exe
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\die using random\bin\Debug\netcoreapp3.1\die using random.deps.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\die using random\bin\Debug\netcoreapp3.1\die using random.runtimeconfig.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\die using random\bin\Debug\netcoreapp3.1\die using random.runtimeconfig.dev.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\die using random\bin\Debug\netcoreapp3.1\die using random.dll
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\die using random\bin\Debug\netcoreapp3.1\die using random.pdb
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\die using random\obj\Debug\netcoreapp3.1\die using random.dll
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\die using random\obj\Debug\netcoreapp3.1\die using random.pdb
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\die using random\obj\Debug\netcoreapp3.1\die using random.genruntimeconfig.cache
